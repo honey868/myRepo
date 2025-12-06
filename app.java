@@ -36,6 +36,7 @@ public class Factorial {
     public static void main(String[] args) {
         int number = 5;
         int result = calculateFactorial(number);
-        System.out.println("Factorial of " + number + " is: " + result);
+        System.out.println("Factorial are the changed code " + number + " is: " + result);
     }
 }
+
